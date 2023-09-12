@@ -1,0 +1,2 @@
+image
+pip install Pillow
